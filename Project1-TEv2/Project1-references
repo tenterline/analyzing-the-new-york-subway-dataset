@@ -1,0 +1,29 @@
+Note: The course presentation encouraged us to search for solutions to problems, e.g. Google.
+I didn't realize that I needed to record all the websites I used for research, the below
+is based on my recollection.
+
+Book:
+	Python in a Nutshell, Alex Martelli, O'Reilly
+
+Reference documents downloaded from the web:
+	Python-2.7
+	pandas.pdf
+	scipy-ref-0.15.1.pdf
+	numpy-ref-1.9.1.pdf
+
+Wikipedia topics:
+	Polynomial regression
+	Ordinary least squares
+
+Other reference:
+	ggplot web site
+
+Stackoverflow:
+	Technique for removing string puctuation in Python
+
+References from the review notes for this project:
+	http://www.ats.ucla.edu/stat/mult_pkg/faq/general/tail_tests.htm
+	https://www.moresteam.com/whitepapers/download/dummy-variables.pdf
+	http://www.statsoft.com/Textbook/Multiple-Regression#cresidual
+	http://blog.minitab.com/blog/adventures-in-statistics/how-high-should-r-squared-be-in-regression-analysis
+
